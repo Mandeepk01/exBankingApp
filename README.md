@@ -1,6 +1,6 @@
 # demo
 
-###PostgresInstallation###
+### PostgresInstallation ###
 
 https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql-macos/
 
