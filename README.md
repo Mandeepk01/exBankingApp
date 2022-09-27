@@ -11,9 +11,9 @@ Install PgAdmin :
 https://www.pgadmin.org/download/
 
 
-### Run the Tests ###
+### Run the Project ###
 
-mvn clean install
+mvn install test 
 
 ### APIs to be used as ###
 
