@@ -41,7 +41,7 @@ public class UserControllerTest {
                 .lastName("Mvc")
                 .userId("mockmvc@test.com")
                 .currency("INR")
-                .mobileNo("9606204400")
+                .mobileNo("960303300")
                 .build();
         String requestJson = OBJECT_MAPPER.writeValueAsString(createUserDto);
 
