@@ -21,4 +21,5 @@ public class CreateUserDto {
     private String mobileNo;
     @NotBlank(message = "currency is mandatory to pass")
     private String currency;
+
 }
