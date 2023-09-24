@@ -23,7 +23,6 @@ import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 public class UserController {
 
     private final UserService userService;
-
     @PostMapping(value = "/create", produces = APPLICATION_JSON_VALUE)
     public ResponseEntity<Void> createUser(@RequestBody @Valid CreateUserDto createUserDto){
         userService.createUser(createUserDto);

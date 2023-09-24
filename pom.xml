@@ -14,7 +14,7 @@
 	<name>demo</name>
 	<description>Demo project for ExBanking</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>20</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
